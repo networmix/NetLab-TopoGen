@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.7.0] - 2026-11-04
+
+### Changed
+
+- **Dependencies**: Require `ngraph>=0.27.0,<0.28`.
+
 ## [0.6.1] - 2026-10-29
 
 ### Changed
